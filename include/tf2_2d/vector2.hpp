@@ -36,7 +36,7 @@
 
 #include <Eigen/Core>
 
-#include <tf2/LinearMath/Scalar.hpp>
+#include <tf2/LinearMath/Scalar.h>
 
 
 namespace tf2_2d

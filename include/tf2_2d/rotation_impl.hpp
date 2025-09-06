@@ -38,7 +38,7 @@
 
 #include <cmath>
 
-#include <tf2/LinearMath/MinMax.hpp>
+#include <tf2/LinearMath/MinMax.h>
 #include <tf2_2d/vector2.hpp>
 
 namespace tf2_2d
